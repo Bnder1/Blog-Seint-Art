@@ -1,8 +1,8 @@
 ---
 template: contact-page
 slug: /contact
-title: Get in touch
+title: Entrer en contact
 ---
-Got a burning question regarding **JAMstack**, Need a new **Website**, or just anything in general. We are happy to talk.
+Vous avez une question brûlante concernant ** Seint-Art **, besoin d'une  ** oeuvre **, ou n'importe quoi en général. Nous sommes heureux de parler.
 
-Just send us a message using the form below or you can send us a DM on [Twitter](https://twitter.com/stackrole)
+Envoyez-nous simplement un message en utilisant le formulaire ci-dessous.
