@@ -4,8 +4,8 @@
     "titleTemplate": "%s",
     "description": "Seint-Art blog, Corentin RichardÒ",
     "siteUrl": "https://seint-art.netlify.app/",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
+    "image": "favicon.ico",
+    "iconimage": "favicon.ico",
 
   },
   "ga": "UA-XXXXXXXXX-X"
